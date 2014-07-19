@@ -1,0 +1,43 @@
+Example Rubric
+
+Assignment 03 [20 Marks]
+========================
+
+
+Problem 0 [0 marks]
+-------------------
+rubric03.txt. This is a problem we don't want TA's marking
+
+
+Problem 1 [16 marks]
+-------------------
+Style & Design {4 marks}
+  
+   /1  : header comments 0/0.5/1 for none, partial, full
+   /1  : whitespace and indentation
+
+   /1  : logical ordering of attributes, methods, constructors
+
+   /1  : proper use of encapsulation
+
+ (information hiding)
+
+Correctness {12 marks}
+Note: Your toString or getName method must be correct in order to test 
+your other methods.  
+  
+  /3  : toString
+  /3  : getName
+  /3  : getHeightFeetAndInches
+  /1  : setters and other getter methods 
+  /2  : constructors
+
+
+
+Problem 2 [4 marks]
+--------------------
+Tests {2 marks}
+  /2 : 0.5 marks for each (different) valid test case
+
+Inline comments {2 marks}
+  /2 : 0.5 marks for each (different) valid test case comment (explanation)
