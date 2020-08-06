@@ -25,7 +25,7 @@ For basic assignments, all you need to do is drop it into your folder with the r
 compile if you haven't already (`javac Tester.java`) and run it (`java Tester`).
 
 For a custom filename to output the report to, type it in as command line arguments.
-For example, to output to `epicRawrSauce.out` I would run the command `java Tester epicRawrSauce.out`.
+For example, to output to `graded.out` I would run the command `java Tester graded.out`.
 
 It's easy.
 
